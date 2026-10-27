@@ -1,0 +1,8 @@
+{
+  // Only needed if Cloudflare is set up with "Deploy command: npx wrangler deploy".
+  // A normal Pages project (build command + output directory) ignores this file.
+  // "name" must match the project's name in the Cloudflare dashboard.
+  "name": "mahedi-martech",
+  "compatibility_date": "2026-01-01",
+  "assets": { "directory": "./dist" }
+}
